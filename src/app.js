@@ -7,6 +7,20 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+// Ruta raíz de bienvenida
+app.get('/', (req, res) => {
+  res.status(200).json({
+    success: true,
+    message: '🚀 API de Gestión de Tareas - Calidad de Software',
+    author: 'Equipo Halanocca Rojas',
+    version: '1.0.0',
+    documentation: {
+      healthCheck: '/health',
+      tasks: '/api/tasks'
+    }
+  });
+});
+
 // Endpoint de verificación de salud (Health Check)
 app.get('/health', (req, res) => {
   res.status(200).json({
