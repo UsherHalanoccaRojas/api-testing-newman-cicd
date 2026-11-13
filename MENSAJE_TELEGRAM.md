@@ -22,8 +22,7 @@ Copia y pega el siguiente mensaje en el grupo de Telegram de la asignatura o equ
    *(Reemplazar con tu repositorio público de GitHub)*
 
 4. 🌐 API Desplegada en la Nube Pública (Render): 
-   https://task-management-api-live.onrender.com/health
-   *(Reemplazar con la URL de tu servicio en Render)*
+   https://api-testing-newman-cicd.onrender.com/health
 
 5. 📦 Archivo ZIP de Entrega: 
    Adjunto en la plataforma con el consolidado de enlaces y código fuente.

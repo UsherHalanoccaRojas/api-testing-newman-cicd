@@ -270,7 +270,7 @@ export default function () {
 
 - **Código Fuente (GitHub):** [Repositorio del Proyecto](https://github.com/tu-usuario/api-testing-newman-cicd)
 - **Video Demostrativo (< 5 min en YouTube):** [Ver Demostración en Video](https://youtu.be/dQw4w9WgXcQ)
-- **API en Producción (Render):** [https://task-management-api-live.onrender.com/health](https://task-management-api-live.onrender.com/health)
+- **API en Producción (Render):** [https://api-testing-newman-cicd.onrender.com/health](https://api-testing-newman-cicd.onrender.com/health)
 
 ---
 *Artículo elaborado como parte de la Actividad de Aseguramiento de la Calidad de Software — Equipo Halanocca Rojas.*

@@ -16,9 +16,9 @@ Equipo: Halanocca Rojas
    (Video explicativo de la construcción, ejecución de Newman, CI/CD y despliegue)
 
 4. DESPLIEGUE EN LA NUBE PÚBLICA (Render SaaS / PaaS):
-   - URL Base: https://task-management-api-live.onrender.com
-   - Health Check: https://task-management-api-live.onrender.com/health
-   - Tasks API: https://task-management-api-live.onrender.com/api/tasks
+   - URL Base: https://api-testing-newman-cicd.onrender.com
+   - Health Check: https://api-testing-newman-cicd.onrender.com/health
+   - Tasks API: https://api-testing-newman-cicd.onrender.com/api/tasks
 
 5. MENSAJE ENVIADO AL GRUPO DE TELEGRAM:
    - Estado: Enviado al grupo de la asignatura con todos los enlaces consolidados.
