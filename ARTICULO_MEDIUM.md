@@ -274,3 +274,4 @@ export default function () {
 
 ---
 *Artículo elaborado como parte de la Actividad de Aseguramiento de la Calidad de Software — Equipo Halanocca Rojas.*
+

@@ -24,3 +24,4 @@
 1. **Herramienta de grabación:** OBS Studio o Loom (permite grabar pantalla + cámara simultáneamente).
 2. **Audio:** Usar micrófono con cancelación de ruido.
 3. **Miniatura / Portada:** Título claro: *"API Testing con Newman + CI/CD en GitHub Actions"*.
+

@@ -132,3 +132,4 @@ npm run test:k6
 | `POST` | `/api/tasks` | Crear una nueva tarea | `201 Created` | `400 Bad Request` |
 | `PUT` | `/api/tasks/:id` | Actualizar estado o título | `200 OK` | `404 Not Found`, `400 Bad Request` |
 | `DELETE`| `/api/tasks/:id` | Eliminar tarea | `200 OK` | `404 Not Found`, `400 Bad Request` |
+

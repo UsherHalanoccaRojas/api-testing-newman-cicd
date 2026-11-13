@@ -56,3 +56,4 @@ jobs:
           # El webhook de Render se dispara automáticamente al aprobar los tests
           # curl -X POST "${{ secrets.RENDER_DEPLOY_HOOK_URL }}"
           echo "✅ Despliegue completado con éxito a través de automatización CI/CD."
+
