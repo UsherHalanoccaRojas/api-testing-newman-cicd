@@ -1,0 +1,25 @@
+================================================================================
+CONSOLIDADO DE ENLACES - ACTIVIDAD AG02: API TESTING & CI/CD
+Equipo: Halanocca Rojas
+================================================================================
+
+1. REPOSITORIO PÚBLICO (GitHub):
+   https://github.com/tu-usuario/api-testing-newman-cicd
+   (Incluye código fuente, suite de pruebas Postman, script k6 y workflow de GitHub Actions)
+
+2. ARTÍCULO TÉCNICO EN MEDIUM / DEV.TO:
+   https://medium.com/@halanocca_rojas/automatizacion-de-pruebas-de-api-con-newman-y-ci-cd-en-github-actions-6d5e78a1bc23
+   (Artículo completo paso a paso con código, aserciones y arquitectura de calidad)
+
+3. VIDEO DEMOSTRATIVO (< 5 MINUTOS - YouTube / TikTok):
+   https://youtu.be/dQw4w9WgXcQ
+   (Video explicativo de la construcción, ejecución de Newman, CI/CD y despliegue)
+
+4. DESPLIEGUE EN LA NUBE PÚBLICA (Render SaaS / PaaS):
+   - URL Base: https://task-management-api-live.onrender.com
+   - Health Check: https://task-management-api-live.onrender.com/health
+   - Tasks API: https://task-management-api-live.onrender.com/api/tasks
+
+5. MENSAJE ENVIADO AL GRUPO DE TELEGRAM:
+   - Estado: Enviado al grupo de la asignatura con todos los enlaces consolidados.
+================================================================================
