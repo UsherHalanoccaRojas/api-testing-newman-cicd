@@ -1,0 +1,30 @@
+{
+  "name": "api-testing-newman-cicd",
+  "version": "1.0.0",
+  "description": "API RESTful con pruebas automatizadas usando Newman (Postman CLI) y CI/CD en GitHub Actions",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js",
+    "test:api": "newman run tests/postman/task_api_collection.json -e tests/postman/postman_environment.json --reporters cli",
+    "test:k6": "k6 run tests/k6/load_test.js"
+  },
+  "keywords": [
+    "api-testing",
+    "newman",
+    "postman",
+    "github-actions",
+    "render",
+    "ci-cd",
+    "quality-assurance"
+  ],
+  "author": "Equipo Calidad de Software - Halanocca Rojas",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "newman": "^6.1.3"
+  }
+}
